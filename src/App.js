@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Mis crypto nueces 
+          Mis crypto nueces 4
         </a>
       </header>
     </div>
